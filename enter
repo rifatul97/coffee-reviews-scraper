@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Nyeri Hill Kenya",
+    "roaster": "JBC Coffee Roasters",
+    "price": "$22.00/12 ounces",
+    "slug": "nyeri-hill-kenya-2/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ethiopia COE #8 Sidama Arbegona Muluneh Tute Galcho 74158 Natural",
+    "roaster": "Small Eyes Cafe",
+    "price": "NT $1700/200 grams",
+    "slug": "ethiopia-coe-8-sidama-arbegona-muluneh-tute-galcho-74158-natural/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Chelbessa Ethiopia",
+    "roaster": "JBC Coffee Roasters",
+    "price": "$20.00/12 ounces",
+    "slug": "chelbessa-ethiopia/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Monte Alban Mexico",
+    "roaster": "JBC Coffee Roasters",
+    "price": "$20.00/12 ounces",
+    "slug": "monte-alban-mexico-3/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Colombia Nariño Lucido Diaz Pink Bourbon",
+    "roaster": "Coffee By Design",
+    "price": "$24.00/12 ounces",
+    "slug": "colombia-narino-lucido-diaz-pink-bourbon/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Co Co Bra Bra",
+    "roaster": "Small Eyes Cafe",
+    "price": "NT $280/200 grams",
+    "slug": "co-co-bra-bra/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Single-Origin Ethiopia Espresso",
+    "roaster": "Cafe330",
+    "price": "HKD $428/150 grams",
+    "slug": "single-origin-ethiopia-espresso/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Finca El Guarumal El Salvador Black Honey",
+    "roaster": "Cafe330",
+    "price": "HKD $428/150 grams",
+    "slug": "finca-el-guarumal-el-salvador-black-honey/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Colombia Granja Paraiso Decaf",
+    "roaster": "Paradise Roasters",
+    "price": "$30.00/12 ounces",
+    "slug": "colombia-granja-paraiso-decaf/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Cafe Granja La Esperanza Natural",
+    "roaster": "Small Batch Coffee",
+    "price": "£11.15/250 grams",
+    "slug": "cafe-granja-la-esperanza-natural/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Philippines Sitio San Roque Robusta Anaerobic Natural",
+    "roaster": "Paradise Roasters",
+    "price": "$30.00/12 ounces",
+    "slug": "philippines-sitio-san-roque-robusta-anaerobic-natural/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ka’u Tropical Punch",
+    "roaster": "Paradise Roasters",
+    "price": "$25.00/4 ounces",
+    "slug": "kau-tropical-punch/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ethiopia Gesha Village Illubabor Forest Lot 22/043 (Single-Terroir) Natural Process",
+    "roaster": "Buon Caffe",
+    "price": "NT $299/100 grams",
+    "slug": "ethiopia-gesha-village-illubabor-forest-lot-22-043-single-terroir-natural-process/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ethiopia Gera Genji Challa",
+    "roaster": "Mostra Coffee",
+    "price": "$28.00/12 ounces",
+    "slug": "ethiopia-gera-genji-challa/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Kenya Gotomboya Peaberry",
+    "roaster": "Mostra Coffee",
+    "price": "$27.00/12 ounces",
+    "slug": "kenya-gotomboya-peaberry/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Panama Hartmann Estate Chicho Gallo Amaro Gayo Natural BOP#1",
+    "roaster": "Buon Caffe",
+    "price": "NT $549/100 grams",
+    "slug": "panama-hartmann-estate-chicho-gallo-amaro-gayo-natural-bop1/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Kenya Ichamama",
+    "roaster": "Mostra Coffee",
+    "price": "$28.00/12 ounces",
+    "slug": "kenya-ichamama/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ethiopia Guji Hamela Buku Abel Washed Process",
+    "roaster": "Buon Caffe",
+    "price": "NT $329/8 ounces",
+    "slug": "ethiopia-guji-hamela-buku-abel-washed-process/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ethiopia Sidamo Assefa 74158 SLD Natural COE#2",
+    "roaster": "Buon Caffe",
+    "price": "NT $369/8 ounces",
+    "slug": "ethiopia-sidamo-assefa-74158-sld-natural-coe2/",
+    "date": "Dec 2022"
+  },
+  {
+    "name": "Ethiopia Uchoro Nansebo Washed",
+    "roaster": "Red Rooster Coffee Roaster",
+    "price": "$27.00/12 ounces",
+    "slug": "ethiopia-uchoro-nansebo-washed/",
+    "date": "Dec 2022"
+  }
+]
